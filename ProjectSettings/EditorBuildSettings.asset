@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: dd9ad07d1426f48ef81f92335e3df3e1
+  - enabled: 1
+    path: Assets/Scenes/HeritageStudiesVideos.unity
+    guid: 8d432cfc994ff4a2eb11e1fb47b37816
+  - enabled: 1
+    path: Assets/Scenes/SampleVideoMatopo.unity
+    guid: a0e924153bdd64bc2831f7a33c71cc6b
+  - enabled: 1
+    path: Assets/Scenes/SampleVideoVicFalls.unity
+    guid: eb6e864a9607a4413a41753ef0b03def
+  - enabled: 1
+    path: Assets/Scenes/SampleVideoGallery.unity
+    guid: 90027ed9d2f7f42fc9466b4ad21a031f
+  - enabled: 1
+    path: Assets/Scenes/PersistentScene.unity
+    guid: 5bde1a05eb2ba4be7864fdcf9a070d35
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 5cbc58179268b4dd9ab9b1a629102426
+  m_configObjects: {}
