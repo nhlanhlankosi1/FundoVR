@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94863646765",
+    "firebase_url": "https://fundovr-f74ef.firebaseio.com",
+    "project_id": "fundovr-f74ef",
+    "storage_bucket": "fundovr-f74ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94863646765:android:c498138f33e8196c06d8a4",
+        "android_client_info": {
+          "package_name": "com.phenomenonTechnologies.FundoVR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94863646765-ank372mvm09h6mdb86hee3bomfgm8466.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUd9IpeSSaxki112Hm_wPBzs39152OeD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94863646765-ank372mvm09h6mdb86hee3bomfgm8466.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94863646765-i35c5lacvn8ro4gjuu9oksc4g0phk2k9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phenomenonTechnologies.FundoVR"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
