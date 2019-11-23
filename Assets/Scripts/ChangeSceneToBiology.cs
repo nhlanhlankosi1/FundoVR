@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class ChangeSceneToVicFalls : MonoBehaviour
+public class ChangeSceneToBiology : MonoBehaviour
 {
     // This script was written to control the gaze behavior to change scene
 
@@ -38,7 +38,7 @@ public class ChangeSceneToVicFalls : MonoBehaviour
 
     public void changeScene()
     {
-        SceneManager.LoadScene("SampleVideoVicFalls");
+        SceneManager.LoadScene("Biology");
     }
 
     public void GVROn()
